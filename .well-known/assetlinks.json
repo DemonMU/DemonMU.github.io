@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.rudy.moshigson",
+            "sha256_cert_fingerprints": [
+                "86:C7:CB:D1:56:D7:D8:B8:FD:67:A7:A1:8F:C0:F6:E6:FC:E1:3D:45:AE:BC:F5:DF:B4:A9:F9:9A:F7:89:F7:0D"
+            ]
+        }
+    }
+]
